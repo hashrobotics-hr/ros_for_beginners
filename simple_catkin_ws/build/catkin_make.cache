@@ -1,0 +1,2 @@
+simple_pub_sub
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/simple_catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/simple_catkin_ws/install -G Unix Makefiles
